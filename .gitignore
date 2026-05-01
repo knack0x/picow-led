@@ -4,3 +4,4 @@ node_modules/
 *.sqlite
 bin/
 *_templ.go
+.DS_Store
